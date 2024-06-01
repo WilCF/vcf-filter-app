@@ -2,7 +2,7 @@
 
 The VCF Filter App is a web-based application designed to clean VCF (vCard) files by filtering out all entries except for those containing phone numbers. It also removes any attached photos from the contacts, ensuring that the output file contains only essential information
 
-For a pure python experience check out [python_executable.py](CONTRIBUTING.md)
+For a pure python experience check out [python_executable.py](python_executable.py)
 
 ## Features
 
