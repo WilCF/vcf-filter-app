@@ -1,6 +1,8 @@
-# VCF Filter App
+# Simplify Your VCF Contacts with vcf-filter-app — Only Names and Phone Numbers Retained!
 
-The VCF Filter App is a web-based application designed to clean VCF (vCard) files by filtering out all entries except for those containing phone numbers. It also removes any attached photos from the contacts, ensuring that the output file contains only essential information.
+The VCF Filter App is a web-based application designed to clean VCF (vCard) files by filtering out all entries except for those containing phone numbers. It also removes any attached photos from the contacts, ensuring that the output file contains only essential information
+
+For a pure python experience check out [python_executable.py](CONTRIBUTING.md)
 
 ## Features
 
@@ -25,7 +27,7 @@ You need Python 3.x installed on your system. If you do not have Python installe
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-github-username/vcf-filter-app.git
+git clone https://github.com/WilCF/vcf-filter-app.git
 ```
 
 Navigate to the project directory:
